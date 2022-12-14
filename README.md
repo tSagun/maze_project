@@ -1,6 +1,7 @@
 # SDEV 334 Maze Generator Project
 This repository contains the files for my maze generator project.
 These files were submitted to my instructor for an individual project assignment.
+UndirectGraph.java and MazeUICompleted.java were written by me, all other files were starter files provided by my instructor.
 
 This graph-based maze generator program creates randomized mazes that can be solved using either DFS or BFS traversal.
 The program also uses Maven to generate the GUI for this program.
