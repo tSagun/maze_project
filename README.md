@@ -8,7 +8,7 @@ The program also uses Maven to generate the GUI for this program.
 ## How to run
 * Download/un-zip all files in the repository.
 * To run the program:
-** Navigate to the gui folder
-** Run Launcher.java
-** Once the maze generator GUI appears, click on "Generate"
-** Click on either "Solve with DFS" or "Solve with BFS" to see highlighted path of solution
+  * Navigate to the gui folder
+  * Run Launcher.java
+  * Once the maze generator GUI appears, click on "Generate"
+  * Click on either "Solve with DFS" or "Solve with BFS" to see highlighted path of solution
